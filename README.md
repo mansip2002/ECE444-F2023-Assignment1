@@ -20,3 +20,17 @@ Activity 4: Unit test
 
 ![Image](images/activity4.png)
 
+Activity 5: Rebase
+
+![Image](images/rebaseRun.png)
+
+![Image](images/changingcommitorder.png)
+
+![Image](images/completedordering.png)
+
+![Image](images/gitlogneworder.png)
+
+
+
+
+
